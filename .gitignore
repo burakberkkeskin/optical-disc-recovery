@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Optical Media Masters & Recovered Data
+raw_discs/
+recovered_data/
+modernized_export/
+export/
+*.iso
+*.bin
+*.cue
+*.img
+*.nrg
+*.vob
+*.VOB
+
+# Recovery Logs & Mapfiles
+logs/*.map
+*.log
+
+# Environment & Secrets
+.env
+.env.local
+
+# OS & Editor
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.idea/
+.vscode/

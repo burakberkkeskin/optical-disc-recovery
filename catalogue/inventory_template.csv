@@ -1,0 +1,4 @@
+disc_id,label_on_disc,media_type,estimated_year,physical_condition,ddrescue_status,recovery_pct,extracted_files_count,notes
+DISC-001,"Sample Vacation Video",VCD,2001,"Minor Scratches",Completed,%100.0,1,"MPEG-1 stream recovered with 0 bad sectors. Modernized to H.265 MP4."
+DISC-002,"Family Photos 2008",CD-R,2008,"Clean / Good",Completed,%100.0,420,"Noritsu photo lab scan CD. All JPEG files verified and hardlinked to timeline."
+DISC-003,"School Ceremony 2010",DVD-R,2010,"Moderate Scratches",Completed,%100.0,4,"DVD-Video structure. 4 VOB files concatenated and deinterlaced."
